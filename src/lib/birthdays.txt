@@ -1,0 +1,76 @@
+Isaac Asimov:1,2;1920,1992
+Kōhei Uchimura:1,3;1989,
+Victor Borge:1,3;1909,2000
+Stephen Hawking:1,8;1942,
+Wolfgang Amadeus Mozart:1,27;1756,1791
+Guido van Rossum:1,31;1956,
+Franz Schubert:1,31;1797,1828
+Ayn Rand:2,2;1908,1982
+Jules Verne:2,8;1828,1905
+Charles Darwin:2,12;1809,1882
+Gallileo Gallilei:2,15;1564,1642
+Nicolaus Copernicus:2,19;1473,1543
+Victor Hugo:2,26;1802,1885
+Frédéric Chopin:2,27;1810,1849
+Rebecca Zachar:3,3;1994,
+Michelangelo:3,6;1475,1564
+Carlo Pacella:3,6;1478,
+Tudor Mereuta:3,7;1982,
+Maurice Ravel:3,7;1875,1937
+Yuri Gagarin:3,9;1934,1968
+Albert Einstein:3,14;1879,1955
+Bryan Dawe:3,21;1948,
+Johann Sebastian Bach:3,31;1675,1750
+Sergei Vasilievich Rachmaninoff:4,1;1873,1943
+Alexander Lang:4,11;1995
+Shakespeare:4,23;1562,1616
+Ferruccio Dante Michelangelo Benvenuto Busoni:4,1;1866,1924
+Herbert von Karajan:4,5;1908,1989
+Leonardo da Vinci:4,15;1452,1519
+Giuseppe Torelli:4,22;1658,1709
+Bartolomeo Cristofori:5,4;1655,1731
+Wolfe Gazer:5,5;1995,
+Johannes Brahms:5,7;1833,1897
+Pyotr Ilyich Tchaikovsky:5,7;1840,1893
+Gabriel Fauré:5,12;1845,1924
+Richard Wagner:5,22;1813,1883
+Isaac Albéniz:5,29;1860,1909
+Marilyn Monroe:6,1;1926,1962
+Martha Argerich:6,5;1941,
+Edvard Grieg:6,15;1843,1907
+Alan Turing:6,23;1912,1954
+Elon Musk:6,28;1971,
+Nikola Tesla:7,10;1856,1943
+Simon Bolivar:7,24;1783,1830
+Hans Rosling:7,27;1948,
+John Clarke:7,29;1948,
+Henry Ford:7,30;1863,1947
+Jimmy Wales:8,7;1966,
+James Randi:8,7;1928,
+Erwin Schrödinger:8,12;1887,1961
+Louis de Broglie:8,15;1892,1987
+Oscar Peterson:8,15;1925,2007
+Tarja Turunen:8,17;1977,
+Nicolas Lehman:8,22;1995,
+Johann Wolfgang von Goethe:8,28;1749,1832
+Antonín Dvořák:9,8;1841,1904
+Dennis Ritchie:9,9;1941,2011
+Joel Cornelius:9,17;1994,
+Augustus:9,23;-63,14
+Dmitri Shostakovich:9,25;1906,1975
+Matthew Bell:10,1;1995,
+Vladimir Horowitz:10,1;1903,1989
+Camille Saint-Saëns:10,9;1835,1921
+Oscar Wilde:10,16;1854,1900
+Franz Liszt:10,22;1811,1886
+Thomas Bowles:10,26;1993,
+Niccolò Paganini:10,27;1782,1840
+Marie Curie:11,7;1876,1934
+Carl Sagan:11,19;1934,1996
+Winston Churchill:11,30;1874,1965
+Ludwig van Beethoven:12,16;1770,1827
+Isaac Newton:12,25;1642,1727
+Lennart Green:12,25;1942,
+Johannes Kepler:12,27;1571,1630
+John von Neumann:19,28;1903,1957
+Reuben Gazer:19,28;1993,

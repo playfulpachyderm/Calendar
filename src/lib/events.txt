@@ -1,0 +1,10 @@
+World War 1:7,28;1914
+The Landing of the Curiosity rover on Mars:8,28;2012
+The Fall of Tenochtitlan to the Spanish:8,13;1521
+The First Man in space (Yuri Gagarin):4,12;1961
+The First Moon Landing:7,20;1969
+The Berlin Wall:8,13;1961
+The United States:9,17;1787
+Linux:10,5;1991
+The First Space Shuttle:9,17;1976
+The Phantom of the Opera:9,23
